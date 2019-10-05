@@ -1,0 +1,19 @@
+.nav-wrapper {
+  margin: auto;
+  background-color: red;
+}
+
+.navText {
+  margin: auto;
+  text-align: center;
+}
+
+.row {
+  margin: auto;
+  padding: 20px;
+  border-top: thin solid grey;
+}
+
+.btn {
+  margin-top: 20px;
+}

@@ -1,0 +1,162 @@
+ topnav{
+ margin-top:100px;
+ }
+
+ nav{
+   background-color:green;
+ }
+
+ #logoText{
+   font-family: 'Dosis', sans-serif;
+ }
+
+ .cus{
+   padding: 20px;
+ }
+
+ .cus2{
+     margin-top:30px;
+ }
+
+ .brand_logo{
+   margin: auto;
+ }
+
+ .signin{
+   text-align: center;
+ }
+
+ .nav-wrapper{
+   color: green;
+ }
+
+ .material-tooltip{
+ width: 300px;
+ min-width:200px;
+}
+
+.btn{
+  background-color: green lighten-1;
+  margin: 20px;
+}
+
+.topnav{
+  border: thin solid grey;
+  border-radius: 5px;
+  padding-bottom: 20px;
+  margin: 20px;
+}
+
+.subjectsBar{
+  border: thin solid grey;
+  border-radius: 5px;
+  padding-bottom: 20px;
+  margin: 20px;
+}
+
+.signinBar{
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+  align-self: center;
+}
+
+#itemList {
+}
+
+#science {
+  background-color: #BAB8D4;
+  border: thick solid green;
+}
+
+#technology {
+  background-color: #B654CA;
+  border: thick solid green;
+}
+
+#humanities {
+  background-color: #EC9549;
+  border: thick solid green;
+}
+
+#business {
+  background-color: #87D8F0;
+  border: thick solid green;
+}
+
+.card {
+  float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 600px;
+  margin: 100px;
+  text-align: center;
+}
+
+.cardItem {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 600px;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.productList {
+    border-right: thin solid green;
+    border-left: thin solid green;
+}
+
+.cus {
+  max-height: 1000px;
+}
+
+#searchBar {
+  background-color: #c9e8cd;
+  margin-top: 10px;
+  border: thin solid #a1d1a7;
+}
+
+#searchBarUser {
+  background-color: #c9e8cd;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border: thin solid #a1d1a7;
+}
+
+#commentBar {
+  background-color: #c9e8cd;
+  border: thin solid #a1d1a7;
+  margin-bottom: 20px;
+}
+
+#itemImageOnPage {
+  padding-top: 20px;
+  max-height: 750px;
+  max-width: 400px;
+  float: left;
+}
+
+#itemdata {
+  float: right;
+}
+
+#myBooksButton {
+  float: left;
+}
+
+#myPurchasesButton {
+  float: right;
+}
+
+#buttonHolder {
+  margin-top: 30px;
+}
+
+#wan {
+  margin-bottom: 30px;
+}
